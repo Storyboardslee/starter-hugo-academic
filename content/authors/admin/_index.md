@@ -4,7 +4,10 @@ role: Pre Doctoral Research Fellow
 avatar_filename: image1-1-.jpeg
 bio: My research interests include tumor evolution and cancer epigenomics.
 interests:
-  - Tumorevolution
+  - Tumor evolution
+  - Cancer epigenomics
+  - Single-cell sequencing
+  - Multiomi data integration
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,7 +45,7 @@ status:
   icon: ☕️
 last_name: Li
 highlight_name: true
-first_name: Alice
+first_name: Xuan Cindy
 email: "xli1994@umd.edu"
 ---
 Xuan Cindy Li is a pre doctoral visiting fellow at National Cancer Institute and Ph.D. candidate at the University of Maryland.
