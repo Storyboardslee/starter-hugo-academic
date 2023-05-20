@@ -22,9 +22,9 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Python
+          description: numpy, scipy, tensorflow, skbio
+          icon: python
           icon_pack: fas
   - block: experience
     content:
