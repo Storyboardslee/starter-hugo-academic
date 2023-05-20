@@ -23,7 +23,7 @@ social:
     link: https://www.linkedin.com/in/xuan-cindy-l-9ba716a5/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Xuan_Cindy_Li_CV2023.pdf
 organizations:
   - name: University of Maryland College Park
     url: https://www.umd.edu/
