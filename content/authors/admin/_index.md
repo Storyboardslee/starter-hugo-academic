@@ -8,7 +8,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: xli1994@umd.edu
+    link: mailto:xli1994@umd.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/XuanCindyLi
@@ -25,16 +25,15 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Maryland College Park
+    url: https://www.umd.edu/
+  - name: National Cancer Institute
+    url: https://www.cancer.gov/
 education:
   courses:
     - course: PhD in Computational Biology, Bioinformatics, and Genomics
       institution: University of Maryland College Park
       year: 2023
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
     - course: BA in Biochemistry
       institution: Washington University in St. Louis
       year: 2016
