@@ -1,6 +1,6 @@
 ---
 title: Xuan Cindy Li
-role: Professor of Artificial Intelligence
+role: Pre Doctoral Research Fellow
 avatar_filename: image1-1-.jpeg
 bio: My research interests include tumor evolution and cancer epigenomics.
 interests:
